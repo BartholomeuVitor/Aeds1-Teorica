@@ -1,0 +1,49 @@
+# Material de estudo :
+---- Curso em video disponivel no Youtube : (https://www.youtube.com/@cfbcursos) Curso de C++ #01 a #86- Introdução ao Curso ----
+Mesmo conteudo da pratica :
+Fundamentos Básicos:
+
+Sintaxe básica de C++ (estrutura de um programa, tipos de dados, variáveis, operadores, etc.).
+Controle de fluxo (estruturas condicionais e loops).
+Programação Orientada a Objetos:
+
+Classes e objetos.
+Encapsulamento, herança e polimorfismo.
+Construtores e destrutores.
+Funções membros, métodos estáticos, membros protegidos e privados.
+Gerenciamento de Memória:
+
+Alocação e liberação de memória (ponteiros e operadores new e delete).
+Uso de referências.
+Templates:
+
+Funções e classes templates.
+Especialização de templates.
+Manipulação de Strings e Streams:
+
+Biblioteca string.
+Streams de entrada e saída (iostream).
+Exceções:
+
+Tratamento de exceções (try, catch, throw).
+STL (Standard Template Library):
+
+Contêineres (vector, list, map, set, etc.).
+Iteradores.
+Algoritmos (sort, find, transform, etc.).
+Programação Avançada:
+
+Funções lambda.
+Expressões regulares.
+Threads e multithreading.
+Manipulação de arquivos (fstream).
+Tópicos Específicos:
+
+Uso avançado de ponteiros.
+Uso de constantes e modificadores (const, volatile).
+Programação genérica.
+Boas Práticas e Padrões de Codificação:
+
+Convenções de nomenclatura.
+Estratégias de debugging e teste.
+Uso de ferramentas de análise estática de código.
